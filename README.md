@@ -13,6 +13,7 @@ This is the repository for the React Router v5 for "React Router v5" course at U
 
 # Demo
 Use the app online at https://hash-basketball.firebaseapp.com/
+
 ![App demo](demo.gif)
 
 # How to Use
