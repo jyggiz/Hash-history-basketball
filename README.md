@@ -7,34 +7,52 @@
   <br />
 </h1>
 
-<h3 align="center">React Router v5 Course Project - <a href="https://basketball-v5.ui.dev/">Hash History Basketball League</a></h3>
+### React Router v5 Course Project(Hash history basketball league)
 
-### Info
+This is the repository for the React Router v5 for "React Router v5" course at Ui.dev(TylerMcGinnis.com). Create-react-app was not used in this project.
 
-This is the repository for [UI.dev](https://ui.dev)'s "React Router v5" course project.
+# Demo
+Use the app online at https://hash-basketball.firebaseapp.com/
+![App demo](demo.gif)
 
-For more information on the course, visit __[ui.dev/react-router-v5](https://ui.dev/react-router-v5/)__.
+# How to Use
 
-### Project
+To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
-This project is an app for a fictional Basketball league.
+```
+# Clone this repository
+$ git clone https://github.com/jyggiz/Hash-history-basketball.git
 
-You can view the final project __[here](https://basketball-v5.ui.dev/)__
+# Go into the repository
+$ cd Hash-history-basketball
 
-### Branches
+# Install dependencies
+$ npm install
 
-Every `(Project)` video in the course coincides with a branch in this repo. If you want to compare your code with Tyler's or you just want to play around with the code, check out the different branches.
+# Run the app
+$ npm run start
 
-Below every `(Project)` video in the course will be a direct link to both the commit for that video as well as its branch.
+```
 
-<img align='center' src='https://user-images.githubusercontent.com/2933430/82761769-26e15180-9dba-11ea-9681-8b453d95c9fd.png' width='200' />
+# Deployment
+To deploy this application you'll need execute that commands from your command line:
 
-### Project Preview
+```
+# Login with your firebase account
+$ npm run firebase-init
 
-![](https://user-images.githubusercontent.com/2933430/82761753-f994a380-9db9-11ea-98af-922c37266d46.png)
+# Build the app and deploy on Firebase server
+$ npm run deploy
 
-![](https://user-images.githubusercontent.com/2933430/82761748-f7cae000-9db9-11ea-9cce-8e6ab5dcc2c7.png)
+```
 
-![](https://user-images.githubusercontent.com/2933430/82761747-f699b300-9db9-11ea-9e59-a79c65fd6536.png)
+# Built With
+* [React](https://reactjs.org/) - JavaScript Library for UI
+* [React Router](https://reactrouter.com/) - Declarative routing for React
+* [NPM](https://www.npmjs.com/) - Package Manager
 
-![](https://user-images.githubusercontent.com/2933430/82761744-f39ec280-9db9-11ea-954d-33feb6bfc706.png)
+# Support
+Reach out to me at one of the following places!
+* Twitter at [@jyggiz_](https://twitter.com/jyggiz_)
+* Linkedin at [@timur-zhigmytov](https://www.linkedin.com/in/timur-zhigmytov/)
+* Medium at [@zhygmytov](https://medium.com/@zhygmytov)
